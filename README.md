@@ -13,7 +13,9 @@ Cada veículo é designado a uma equipe de mecânicos que identifica os serviço
 
 A partir da OS, calcula-se o valor de cada serviço, consultando-se uma tabela de referência de mão-de-obra
 
-O valor de cada peça também irá compor a OSO cliente autoriza a execução dos serviços
+O valor de cada peça também irá compor a OS
+
+O cliente autoriza a execução dos serviços
 
 A mesma equipe avalia e executa os serviços
 
